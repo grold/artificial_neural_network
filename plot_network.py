@@ -1,6 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import rc, rcParams
+#jpimport scienceplots
+
+#plt.style.use(['science','no-latex'])
 
 from network import Network
 
